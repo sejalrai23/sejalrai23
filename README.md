@@ -1,11 +1,11 @@
 ### Hi there , this is Sejal Rai 👋
 pursuing Btech in computer science and engineering from IIIT DHARWAD 👩‍🎓.
 
-I'm currently learning and working on MERN STACK .
+-I'm currently learning and working on MERN STACK .
 
-Iam interested in flutter app development , very excited to build beautiful responsive UI's using flutter❤.
+-Iam interested in flutter app development , very excited to build beautiful responsive UI's using flutter❤.
 
-The python's first words when it came out of the shell was ... print("s"*10)!😂
+-The python's first words when it came out of the shell was ... print("s"*10)!😂
 
 and lastly status code 200! makes me happy🤗
 
