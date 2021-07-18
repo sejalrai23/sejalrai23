@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there , this is Sejal Rai 👋
+pursuing Btech in computer science and engineering from IIIT DHARWAD 👩‍🎓.
 
 <!--
 **sejalrai23/sejalrai23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
