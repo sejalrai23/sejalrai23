@@ -9,8 +9,8 @@ pursuing Btech in computer science and engineering from IIIT DHARWAD 👩‍🎓
 
 and lastly status code 200! makes me happy🤗
 
-<!--
-**sejalrai23/sejalrai23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- **sejalrai23/sejalrai23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -21,5 +21,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
+<br/>
+
+<img align="left" alt="sejalrai23's github stats" src="https://github-readme-stats.vercel.app/api?username=sejalrai23&show_icons=true&hide_border-true"/>
+
