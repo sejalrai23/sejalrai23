@@ -9,6 +9,11 @@
 <br/>
 
 ![Sejal Rai's Github Stats](https://github-readme-stats.vercel.app/api?username=sejalrai23&theme=chartreuse-dark&show_icons=true&hide_border=false&include_all_commits=true&show_owner=true&count_private=true&hide_rank=false&cache_seconds=86000)
-<br>
-![Profile views](https://gpvc.arturio.dev/sejalrai23)  
+
+<br/>
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sejalrai23&layout=compact&theme=chartreuse-dark)
+
+
 
