@@ -9,10 +9,11 @@
 <br/>
 
 ![ My Github Stats](https://github-readme-stats.vercel.app/api?username=sejalrai23&theme=chartreuse-dark&show_icons=true&hide_border=false&include_all_commits=true&show_owner=true&count_private=true&hide_rank=false&cache_seconds=86000)
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sejalrai23&layout=compact&theme=chartreuse-dark)
 
 <br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sejalrai23&layout=compact&theme=chartreuse-dark)
+
 <br/>
 
 <h3 align="left">🛠Tech Stack :</h3>
@@ -37,4 +38,8 @@
 <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> </a>
 <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
 </p>
+
+<br/>
+![Profile Views](https://komarev.com/ghpvc/?username=sejalrai23&color=red)
+
 
