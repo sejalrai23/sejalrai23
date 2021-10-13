@@ -39,7 +39,6 @@
 <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
 </p>
 
-<br/>
-![Profile Views](https://komarev.com/ghpvc/?username=sejalrai23&color=red)
+
 
 
